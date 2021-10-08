@@ -1,4 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .container {
   width: 1050px;
   margin: 0 auto;
+}
+
+.profile-pic {
+  width: 60px;
+  margin-right: 5px;
+  border-radius: 50%;
+  border: 2px solid pink;
+}
+
+.small-profile-pic {
+  width: 40px;
+  margin-right: 5px;
+  border-radius: 50%;
+  border: 2px solid pink;
+}
+
+.post-profile-pic {
+  width: 30px;
+  margin-right: 5px;
+  border-radius: 50%;
+  border: 2px solid pink;
+}
+
+// COLORS
+.lightgrey {
+  color: lightgrey;
+}
+
+.grey {
+  color: grey;
+}
+
+.blue {
+  color: #2597dd;
+}
+
+// SPACES
+.mr-10 {
+  margin-right: 10px;
 }

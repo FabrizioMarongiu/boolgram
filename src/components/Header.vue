@@ -61,7 +61,7 @@ header{
           color:#000
           }
           .profile img{
-              width:50px;
+              width:40px;
               height: auto;
               border-radius: 50%;
               border: 2px solid pink;
